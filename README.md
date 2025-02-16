@@ -10,7 +10,7 @@ Features
 ✅ Handles missing values and statistical summaries
 
 Technologies Used
-Python,Pandas & NumPy,Yahoo Finance API (yfinance).Jupyter Notebook
+Python,Pandas & NumPy,Yahoo Finance API (yfinance),Jupyter Notebook
 
 Future Enhancements
 🚀 Stock price prediction using machine learning
